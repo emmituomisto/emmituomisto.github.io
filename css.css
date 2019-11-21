@@ -1,0 +1,21 @@
+body {
+background-color:linen;
+
+}
+
+h1 {
+color:tomato;
+text-align:center;
+font-size:300%;
+font-family:Palatino;
+
+}
+
+p {
+font-family:Helvetica;
+font-size:140%;
+border-bottom:6px solid tomato;
+background-color:linen;
+text-align:left;
+
+}
